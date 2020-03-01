@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/medicine-with-react/static/css/main.8838ba68.chunk.css",
+    "main.js": "/medicine-with-react/static/js/main.97d587e1.chunk.js",
+    "main.js.map": "/medicine-with-react/static/js/main.97d587e1.chunk.js.map",
+    "runtime-main.js": "/medicine-with-react/static/js/runtime-main.fde521be.js",
+    "runtime-main.js.map": "/medicine-with-react/static/js/runtime-main.fde521be.js.map",
+    "static/js/2.08e26ed3.chunk.js": "/medicine-with-react/static/js/2.08e26ed3.chunk.js",
+    "static/js/2.08e26ed3.chunk.js.map": "/medicine-with-react/static/js/2.08e26ed3.chunk.js.map",
+    "index.html": "/medicine-with-react/index.html",
+    "precache-manifest.dff979df118381b83bcb34b1fa6b71b9.js": "/medicine-with-react/precache-manifest.dff979df118381b83bcb34b1fa6b71b9.js",
+    "service-worker.js": "/medicine-with-react/service-worker.js",
+    "static/css/main.8838ba68.chunk.css.map": "/medicine-with-react/static/css/main.8838ba68.chunk.css.map",
+    "static/js/2.08e26ed3.chunk.js.LICENSE.txt": "/medicine-with-react/static/js/2.08e26ed3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fde521be.js",
+    "static/js/2.08e26ed3.chunk.js",
+    "static/css/main.8838ba68.chunk.css",
+    "static/js/main.97d587e1.chunk.js"
+  ]
+}
