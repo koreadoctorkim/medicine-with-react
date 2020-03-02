@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/medicine-with-react/precache-manifest.dff979df118381b83bcb34b1fa6b71b9.js"
+  "/medicine-with-react/precache-manifest.d53eef8ad017f79d4e774d07d171e81d.js"
 );
 
 self.addEventListener('message', (event) => {
