@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59e73406d7e81e2d10cf50551837e66a",
+    "revision": "211c26072054087c44216b4b4d5468ae",
     "url": "/medicine-with-react/index.html"
   },
   {
