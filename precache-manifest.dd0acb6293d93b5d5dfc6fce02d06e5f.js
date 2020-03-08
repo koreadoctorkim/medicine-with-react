@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "211c26072054087c44216b4b4d5468ae",
+    "revision": "28c6d53a98d6266662a5d611ce2c9606",
     "url": "/medicine-with-react/index.html"
   },
   {
-    "revision": "e8ca8969bd2501d68b18",
+    "revision": "44a85eee48be5559d15d",
     "url": "/medicine-with-react/static/css/main.8838ba68.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/medicine-with-react/static/js/2.4f354774.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e8ca8969bd2501d68b18",
-    "url": "/medicine-with-react/static/js/main.8d52c5ca.chunk.js"
+    "revision": "44a85eee48be5559d15d",
+    "url": "/medicine-with-react/static/js/main.0a170b22.chunk.js"
   },
   {
     "revision": "e527ac0ce5f7301aadd4",

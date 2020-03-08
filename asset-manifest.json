@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/medicine-with-react/static/css/main.8838ba68.chunk.css",
-    "main.js": "/medicine-with-react/static/js/main.8d52c5ca.chunk.js",
-    "main.js.map": "/medicine-with-react/static/js/main.8d52c5ca.chunk.js.map",
+    "main.js": "/medicine-with-react/static/js/main.0a170b22.chunk.js",
+    "main.js.map": "/medicine-with-react/static/js/main.0a170b22.chunk.js.map",
     "runtime-main.js": "/medicine-with-react/static/js/runtime-main.f9572be2.js",
     "runtime-main.js.map": "/medicine-with-react/static/js/runtime-main.f9572be2.js.map",
     "static/js/2.4f354774.chunk.js": "/medicine-with-react/static/js/2.4f354774.chunk.js",
     "static/js/2.4f354774.chunk.js.map": "/medicine-with-react/static/js/2.4f354774.chunk.js.map",
     "index.html": "/medicine-with-react/index.html",
-    "precache-manifest.90f74307d39978b10f43ed698d52fd72.js": "/medicine-with-react/precache-manifest.90f74307d39978b10f43ed698d52fd72.js",
+    "precache-manifest.dd0acb6293d93b5d5dfc6fce02d06e5f.js": "/medicine-with-react/precache-manifest.dd0acb6293d93b5d5dfc6fce02d06e5f.js",
     "service-worker.js": "/medicine-with-react/service-worker.js",
     "static/css/main.8838ba68.chunk.css.map": "/medicine-with-react/static/css/main.8838ba68.chunk.css.map",
     "static/js/2.4f354774.chunk.js.LICENSE.txt": "/medicine-with-react/static/js/2.4f354774.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f9572be2.js",
     "static/js/2.4f354774.chunk.js",
     "static/css/main.8838ba68.chunk.css",
-    "static/js/main.8d52c5ca.chunk.js"
+    "static/js/main.0a170b22.chunk.js"
   ]
 }
